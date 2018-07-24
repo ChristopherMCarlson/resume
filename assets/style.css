@@ -1,0 +1,27 @@
+.contact h1{
+    color: cornflowerblue;
+}
+
+/* a {
+    text-decoration: none;
+    color: black;
+} */
+
+#about {
+    color: blueviolet;
+    background-color: yellow;
+}
+
+.job h4{
+    display: inline-block;
+}
+
+.date{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+}
+
+li:hover{
+    font-weight: 700;
+}
